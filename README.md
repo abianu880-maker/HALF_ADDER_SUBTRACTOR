@@ -34,7 +34,8 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
-![ai](https://github.com/user-attachments/assets/d344ff75-dc69-4926-97a5-850f742e0fad)
+
+<img width="368" height="274" alt="Screenshot 2025-12-10 134257" src="https://github.com/user-attachments/assets/8efebe54-bde7-4407-9349-e8ae78d9427b" />
 
 <img width="713" height="298" alt="Screenshot 2025-12-10 134215" src="https://github.com/user-attachments/assets/0678c4dd-99b6-4e77-9a77-360546ddd8a6" />
 
@@ -59,7 +60,7 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-<img width="1920" height="1020" alt="Screenshot 2025-12-09 203224" src="https://github.com/user-attachments/assets/386bedee-7a22-4ed5-ac73-163fa002f779" />
+![ai](https://github.com/user-attachments/assets/d344ff75-dc69-4926-97a5-850f742e0fad)
 <img width="818" height="391" alt="Screenshot 2025-12-09 202326" src="https://github.com/user-attachments/assets/5f3f8c0e-ffca-4d3c-afd9-e2ea154913bb" />
 
 **Output/TIMING Waveform**
