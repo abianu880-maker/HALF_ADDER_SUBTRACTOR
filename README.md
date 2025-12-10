@@ -69,10 +69,49 @@ Figure -02 HALF Subtractor
 
 
 module exp3(a,b,sum,carry);
+
+
+
+
+
+
+
+
 input a,b;
+
+
+
+
+
+
+
+
 output sum,carry;
+
+
+
+
+
+
+
+
 xor g1(sum,a,b);
+
+
+
+
+
+
+
 and g2(carry,a,b);
+
+
+
+
+
+
+
+
 endmodule
 
 
@@ -86,10 +125,54 @@ endmodule
 
 
 module exp3(a,b,diff,borrow);
+
+
+
+
+
+
+
 input a,b;
+
+
+
+
+
+
+
+
 output diff,borrow;
+
+
+
+
+
+
+
+
+
 xor difference(diff,a,b);
+
+
+
+
+
+
+
+
+
+
+
 assign borrow=(~a)&b;
+
+
+
+
+
+
+
+
+
 endmodule
 
 **RTL Schematic**
